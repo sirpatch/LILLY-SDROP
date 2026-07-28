@@ -35,6 +35,10 @@ something in Spotify, YouTube, a game, whatever — no setup or routing needed.
 | F           | Fullscreen                       |
 | Esc         | Quit                             |
 
+## PRESETS
+
+Presets are [THERE](https://github.com/sirpatch/LILLY-SDROP/tree/Presets/Presets)
+
 ## Making Your Own Presets
 
 Every preset is a plain text file (`.frag`) in the `Presets/` folder next to
